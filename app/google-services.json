@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "789076556238",
+    "firebase_url": "https://inside-seoul-1507908444581.firebaseio.com",
+    "project_id": "inside-seoul-1507908444581",
+    "storage_bucket": "inside-seoul-1507908444581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789076556238:android:e686cfc17617f004",
+        "android_client_info": {
+          "package_name": "us.buddman.insideseoul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789076556238-2u07lbaut1291spknsvkuavvhv05qj0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPtNeSyxEuLAz_UAydI_Qkiv9eIXxizu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
