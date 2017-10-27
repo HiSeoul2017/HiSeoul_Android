@@ -2,12 +2,12 @@ package us.buddman.insideseoul
 
 import us.buddman.insideseoul.utils.BaseActivity
 
-class MainActivity : BaseActivity() {
+class DetailActivity : BaseActivity() {
     override fun setDefault() {
     }
 
     override fun onCreateViewId(): Int {
-        return R.layout.activity_main
+        return R.layout.activity_detail
     }
 
     override fun onCreateViewToolbarId(): Int {

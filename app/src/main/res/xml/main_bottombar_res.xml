@@ -1,0 +1,18 @@
+<tabs>
+    <tab
+        icon="@drawable/nav_ic_main_on"
+        id="@+id/nav_main"
+        title="메인" />
+    <tab
+        icon="@drawable/nav_ic_search_on"
+        id="@+id/nav_search"
+        title="검색하기" />
+    <tab
+        icon="@drawable/nav_ic_myseoul_on"
+        id="@+id/nav_myseoul"
+        title="마이서울" />
+    <tab
+        icon="@drawable/nav_ic_setting_on"
+        id="@+id/nav_settings"
+        title="설정" />
+</tabs>
